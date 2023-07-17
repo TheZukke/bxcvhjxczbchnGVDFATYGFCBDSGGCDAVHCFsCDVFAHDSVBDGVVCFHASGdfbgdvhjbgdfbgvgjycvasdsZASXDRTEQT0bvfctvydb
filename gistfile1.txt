@@ -5,8 +5,8 @@
       "password": "oso"
     },
     {
-      "username": "usuario2",
-      "password": "contraseña2"
+      "username": "caca",
+      "password": "caca"
     }
   ],
   "modpacks": [
