@@ -12,7 +12,7 @@
   "modpacks": [
     {
       "name": "Modpack 1",
-      "image_url": "ruta_de_la_imagen1",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Enrique_G%C3%B3mez_Carrillo.png/200px-Enrique_G%C3%B3mez_Carrillo.png",
       "description": "Descripción del Modpack 1",
       "latest_version": "1.0.0",
       "game_version": "1.16.5",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Modpack 2",
-      "image_url": "ruta_de_la_imagen2",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jane_Birkin_2017_%28cropped%29.JPG/120px-Jane_Birkin_2017_%28cropped%29.JPG",
       "description": "Descripción del Modpack 2",
       "latest_version": "2.0.0",
       "game_version": "1.17.1",
