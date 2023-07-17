@@ -1,8 +1,8 @@
 {
   "accounts": [
     {
-      "username": "zukke",
-      "password": "oso"
+      "username": "usuario1",
+      "password": "contraseña1"
     },
     {
       "username": "usuario2",
@@ -14,19 +14,16 @@
       "name": "Modpack 1",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Enrique_G%C3%B3mez_Carrillo.png/200px-Enrique_G%C3%B3mez_Carrillo.png",
       "description": "Descripción del Modpack 1",
-      "latest_version": "1.0.0",
-      "game_version": "1.16.5",
-      "release_date": "2022-01-01",
       "versions": [
         {
           "version_name": "1.0.0",
-          "url": "ruta_del_modpack1",
-          "password": "contraseña_modpack1"
+          "url": "https://ruta/descarga_modpack1_v1.0.0.zip",
+          "password": ""
         },
         {
           "version_name": "1.1.0",
-          "url": "ruta_del_modpack2",
-          "password": "contraseña_modpack2"
+          "url": "https://ruta/descarga_modpack1_v1.1.0.zip",
+          "password": ""
         }
       ]
     },
@@ -34,19 +31,16 @@
       "name": "Modpack 2",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jane_Birkin_2017_%28cropped%29.JPG/120px-Jane_Birkin_2017_%28cropped%29.JPG",
       "description": "Descripción del Modpack 2",
-      "latest_version": "2.0.0",
-      "game_version": "1.17.1",
-      "release_date": "2022-02-01",
       "versions": [
         {
-          "version_name": "2.0.0",
-          "url": "ruta_del_modpack3",
-          "password": "contraseña_modpack3"
+          "version_name": "1.0.0",
+          "url": "https://ruta/descarga_modpack2_v1.0.0.zip",
+          "password": ""
         },
         {
-          "version_name": "2.1.0",
-          "url": "ruta_del_modpack4",
-          "password": "contraseña_modpack4"
+          "version_name": "1.1.0",
+          "url": "https://ruta/descarga_modpack2_v1.1.0.zip",
+          "password": "1234"
         }
       ]
     }
