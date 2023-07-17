@@ -1,0 +1,54 @@
+{
+  "accounts": [
+    {
+      "username": "usuario1",
+      "password": "contraseña1"
+    },
+    {
+      "username": "usuario2",
+      "password": "contraseña2"
+    }
+  ],
+  "modpacks": [
+    {
+      "name": "Modpack 1",
+      "image_url": "ruta_de_la_imagen1",
+      "description": "Descripción del Modpack 1",
+      "latest_version": "1.0.0",
+      "game_version": "1.16.5",
+      "release_date": "2022-01-01",
+      "versions": [
+        {
+          "version_name": "1.0.0",
+          "url": "ruta_del_modpack1",
+          "password": "contraseña_modpack1"
+        },
+        {
+          "version_name": "1.1.0",
+          "url": "ruta_del_modpack2",
+          "password": "contraseña_modpack2"
+        }
+      ]
+    },
+    {
+      "name": "Modpack 2",
+      "image_url": "ruta_de_la_imagen2",
+      "description": "Descripción del Modpack 2",
+      "latest_version": "2.0.0",
+      "game_version": "1.17.1",
+      "release_date": "2022-02-01",
+      "versions": [
+        {
+          "version_name": "2.0.0",
+          "url": "ruta_del_modpack3",
+          "password": "contraseña_modpack3"
+        },
+        {
+          "version_name": "2.1.0",
+          "url": "ruta_del_modpack4",
+          "password": "contraseña_modpack4"
+        }
+      ]
+    }
+  ]
+}
