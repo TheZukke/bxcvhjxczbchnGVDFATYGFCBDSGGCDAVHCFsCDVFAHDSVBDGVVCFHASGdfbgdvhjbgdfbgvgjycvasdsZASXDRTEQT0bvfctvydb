@@ -5,44 +5,49 @@
       "password": "oso"
     },
     {
-      "username": "cece",
-      "password": "cece"
-    }
+      "username": "caca",
+      "password": "caca"
+    },
+    ...
   ],
   "modpacks": [
     {
-      "name": "Modpack 1",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Enrique_G%C3%B3mez_Carrillo.png/200px-Enrique_G%C3%B3mez_Carrillo.png",
-      "description": "Descripción del Modpack 1",
+      "name": "DawnCraft",
+      "image_url": "https://media.forgecdn.net/avatars/780/552/638125961291118791.gif",
+      "latest_version": "1.26",
+      "date": "12/jul/23",
+      "game_version": "1.18.2",
+      "description": "An Adventure RPG Modpack",
       "versions": [
         {
-          "version_name": "1.0.0",
-          "url": "https://download1588.mediafire.com/36n8pfg1nndgRVV2R3s48cRe1dUCHj3v9E1cDUINfru8Y0IWptRbq5L7qib1Tf0TABzxIm39FwvIB4IqUQdRnIpXAv0b0tgsOddQkpHiggQKIoQ1ABDLzmbxF6KVoyafuJE0Tf78sOLGRhnXTv7AGDEVVO67TeZW1wqipp1k7QNQxx5i/5its8l3r8dlse4u/GalacticMPR-main.zip",
-          "password": "caca"
+          "version_name": "1.26",
+          "password": "caca",
+          "url": "https://mediafilez.forgecdn.net/files/4638/396/DawnCraft+-+1.26.zip"
         },
         {
-          "version_name": "1.1.0",
-          "url": "https://ruta/descarga_modpack1_v1.1.0.zip",
-          "password": ""
-        }
+          "version_name": "versión2_modpack1",
+          "password": null,
+          "url": "url_versión2_modpack1"
+        },
+        ...
       ]
     },
     {
-      "name": "Modpack 2",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jane_Birkin_2017_%28cropped%29.JPG/120px-Jane_Birkin_2017_%28cropped%29.JPG",
-      "description": "Descripción del Modpack 2",
+      "name": "RLCraft",
+      "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
+      "latest_version": "última_versión2",
+      "date": "fecha2",
+      "game_version": "versión_juego2",
+      "description": "descripción_modpack2",
       "versions": [
         {
-          "version_name": "1.0.0",
-          "url": "https://ruta/descarga_modpack2_v1.0.0.zip",
-          "password": ""
+          "version_name": "versión1_modpack2",
+          "password": null,
+          "url": "url_versión1_modpack2"
         },
-        {
-          "version_name": "1.1.0",
-          "url": "https://ruta/descarga_modpack2_v1.1.0.zip",
-          "password": "1234"
-        }
+        ...
       ]
-    }
+    },
+    ...
   ]
 }
