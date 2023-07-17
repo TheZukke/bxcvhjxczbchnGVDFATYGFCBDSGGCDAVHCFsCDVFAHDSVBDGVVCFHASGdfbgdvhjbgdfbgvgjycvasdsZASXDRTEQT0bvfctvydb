@@ -7,12 +7,12 @@
     {
       "username": "caca",
       "password": "caca"
-    },
+    }
   ],
   "modpacks": [
     {
       "name": "DawnCraft",
-      "image_url": "https://media.forgecdn.net/avatars/587/595/637956761465882831.png",
+      "image_url": "https://media.forgecdn.net/avatars/780/552/638125961291118791.gif",
       "latest_version": "1.26",
       "date": "12/jul/23",
       "game_version": "1.18.2",
@@ -27,7 +27,7 @@
           "version_name": "versión2_modpack1",
           "password": null,
           "url": "url_versión2_modpack1"
-        },
+        }
       ]
     },
     {
@@ -42,8 +42,8 @@
           "version_name": "versión1_modpack2",
           "password": null,
           "url": "url_versión1_modpack2"
-        },
+        }
       ]
-    },
+    }
   ]
 }
