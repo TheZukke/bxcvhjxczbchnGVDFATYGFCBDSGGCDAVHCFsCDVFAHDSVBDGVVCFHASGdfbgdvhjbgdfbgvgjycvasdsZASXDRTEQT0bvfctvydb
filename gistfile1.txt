@@ -1,8 +1,8 @@
 {
   "accounts": [
     {
-      "username": "usuario1",
-      "password": "contraseña1"
+      "username": "zukke",
+      "password": "oso"
     },
     {
       "username": "usuario2",
