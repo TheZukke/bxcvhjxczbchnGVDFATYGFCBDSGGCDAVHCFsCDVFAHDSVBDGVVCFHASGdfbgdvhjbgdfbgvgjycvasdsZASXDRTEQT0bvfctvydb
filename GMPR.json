@@ -12,7 +12,7 @@
   "modpacks": [
     {
       "name": "DawnCraft",
-      "image_url": "https://media.forgecdn.net/avatars/780/552/638125961291118791.gif",
+      "image_url": "https://media.forgecdn.net/avatars/587/595/637956761465882831.png",
       "latest_version": "1.26",
       "date": "12/jul/23",
       "game_version": "1.18.2",
@@ -21,12 +21,14 @@
         {
           "version_name": "1.26",
           "password": "caca",
-          "url": "https://mediafilez.forgecdn.net/files/4638/396/DawnCraft+-+1.26.zip"
+          "url": "https://mediafilez.forgecdn.net/files/4638/396/DawnCraft+-+1.26.zip",
+          "description": "Esta es la versión 1.26 de DawnCraft. ¡Disfrútala!"
         },
         {
           "version_name": "versión2_modpack1",
           "password": null,
-          "url": "url_versión2_modpack1"
+          "url": "url_versión2_modpack1",
+          "description": "Esta es la versión 2 de Modpack1. ¡Prueba sus nuevas características!"
         }
       ]
     },
@@ -41,7 +43,8 @@
         {
           "version_name": "versión1_modpack2",
           "password": null,
-          "url": "url_versión1_modpack2"
+          "url": "url_versión1_modpack2",
+          "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
         }
       ]
     }
