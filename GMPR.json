@@ -47,6 +47,22 @@
           "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
         }
       ]
+    },
+    {
+      "name": "Nocillaland",
+      "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
+      "latest_version": "última_versión2",
+      "date": "fecha2",
+      "game_version": "versión_juego2",
+      "description": "descripción_modpack2",
+      "versions": [
+        {
+          "version_name": "versión1_modpack2",
+          "password": null,
+          "url": "url_versión1_modpack2",
+          "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
+        }
+      ]
     }
   ]
 }
