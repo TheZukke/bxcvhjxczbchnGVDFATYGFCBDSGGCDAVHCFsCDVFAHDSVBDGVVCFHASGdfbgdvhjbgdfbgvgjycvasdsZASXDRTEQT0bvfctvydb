@@ -22,45 +22,51 @@
         {
           "version_name": "1.26",
           "password": "caca",
-          "url": "https://mediafilez.forgecdn.net/files/4638/396/DawnCraft+-+1.26.zip",
-          "description": "Esta es la versión 1.26 de DawnCraft. ¡Disfrútala!"
+          "url": "https://www.curseforge.com/api/v1/mods/829758/files/4638396/download",
+          "description": "Archivos para usuario, (Se necesita el serverPack!!)"
         },
         {
-          "version_name": "versión2_modpack1",
-          "password": null,
-          "url": "https://download1588.mediafire.com/5nco94fzwb0gZQJCcy5crGr_V7XuaRtMCM3UCAQb7z6qGP7xfKluZs3o_HrDCRFFAU1eJd621XuqyV5hLFCM_EBeycKUpzzln8m2daPmBWGn1y99JuQBC4CgJMFmNjl3uDlM4V3xKlz-D3XW7i7mC38wc4SSAL17JlmeejSCmQ7M5Qfo/5its8l3r8dlse4u/GalacticMPR-main.zip",
-          "description": "Esta es la versión 2 de Modpack1. ¡Prueba sus nuevas características!"
+          "version_name": "1.26 SP",
+          "password": "caca",
+          "url": "https://www.curseforge.com/api/v1/mods/829758/files/4638442/download",
+          "description": "Archivos para servidor, (Se necesita si quieres juegar solo o en un servidor!!)"
         }
       ]
     },
     {
       "name": "RLCraft",
       "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
-      "latest_version": "última_versión2",
-      "date": "13/Ene/2023",
+      "latest_version": "2.9.3",
+      "date": "28/Jun/2023",
       "game_version": "1.12.2",
-      "description": "descripción_modpack2",
+      "description": "RLCraft, el RL que significa Real Life o Realism y es una versión de otro mod que hice para Unreal llamado RLCoop que generalmente tiene un objetivo similar, es mi interpretación de lo que siempre quise en Minecraft cuando se trata de pura supervivencia, aventuras y juegos de rol e inmersión. Seleccioné a mano muchos mods y ajusté individualmente cada uno para que se ajustara al estilo de juego exacto que estaba buscando, asegurándome de que todos funcionaran de manera fluida entre sí, agregando mis propios scripts personalizados para varios cambios en el comportamiento de vainilla, etc.",
       "creator": "N/A",
       "versions": [
         {
-          "version_name": "versión1_modpack2",
+          "version_name": "2.9.3",
           "password": null,
-          "url": "url_versión1_modpack2",
-          "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
+          "url": "https://www.curseforge.com/api/v1/mods/285109/files/4612979/download",
+          "description": "Archivos para usuario, (Se necesita el serverPack!!)"
+        },
+        {
+          "version_name": "2.9.3 SP",
+          "password": null,
+          "url": "https://www.curseforge.com/api/v1/mods/285109/files/4612990/download",
+          "description": "Archivos para servidor, (Se necesita si quieres juegar solo o en un servidor!!)"
         }
       ]
     },
     {
       "name": "Nocillaland",
       "image_url": "https://github.com/TheZukke/bxcvhjxczbchnGVDFATYGFCBDSGGCDAVHCFsCDVFAHDSVBDGVVCFHASGdfbgdvhjbgdfbgvgjycvasdsZASXDRTEQT0bvfctvydb/blob/main/nocilla.png?raw=true",
-      "latest_version": "última_versión2",
-      "date": "1.19.4",
-      "game_version": "versión_juego2",
+      "latest_version": "1.0.0",
+      "date": "25/Sep/2023",
+      "game_version": "1.19.4",
       "description": "descripción_modpack2",
       "creator": "Zukke",
       "versions": [
         {
-          "version_name": "versión1_modpack2",
+          "version_name": "1.0.0",
           "password": null,
           "url": "url_versión1_modpack2",
           "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
@@ -70,17 +76,17 @@
     {
       "name": "caca",
       "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
-      "latest_version": "última_versión2",
+      "latest_version": "1.0.0",
       "date": "01/May/2023",
       "game_version": "1.20.1",
       "description": "descripción_modpack2",
       "creator": "Zukke",
       "versions": [
         {
-          "version_name": "versión1_modpack2",
+          "version_name": "Prueba_descarga",
           "password": null,
-          "url": "url_versión1_modpack2",
-          "description": "Esta es la versión 1 de Modpack2. ¡Explora su mundo único!"
+          "url": "https://download1588.mediafire.com/5nco94fzwb0gZQJCcy5crGr_V7XuaRtMCM3UCAQb7z6qGP7xfKluZs3o_HrDCRFFAU1eJd621XuqyV5hLFCM_EBeycKUpzzln8m2daPmBWGn1y99JuQBC4CgJMFmNjl3uDlM4V3xKlz-D3XW7i7mC38wc4SSAL17JlmeejSCmQ7M5Qfo/5its8l3r8dlse4u/GalacticMPR-main.zip",
+          "description": "Esta es la versión 2 de Modpack1. ¡Prueba sus nuevas características!"
         }
       ]
     }
