@@ -14,10 +14,10 @@
       "name": "DawnCraft",
       "image_url": "https://media.forgecdn.net/avatars/587/595/637956761465882831.png",
       "latest_version": "1.26",
-      "date": "12/jul/23",
+      "date": "12/Jul/2023",
       "game_version": "1.18.2",
       "description": "An Adventure RPG Modpack",
-      "creator": "Zukke",
+      "creator": "N/A",
       "versions": [
         {
           "version_name": "1.26",
@@ -37,10 +37,10 @@
       "name": "RLCraft",
       "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
       "latest_version": "última_versión2",
-      "date": "fecha2",
-      "game_version": "versión_juego2",
+      "date": "13/Ene/2023",
+      "game_version": "1.12.2",
       "description": "descripción_modpack2",
-      "creator": "Caca",
+      "creator": "N/A",
       "versions": [
         {
           "version_name": "versión1_modpack2",
@@ -52,9 +52,9 @@
     },
     {
       "name": "Nocillaland",
-      "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
+      "image_url": "https://github.com/TheZukke/bxcvhjxczbchnGVDFATYGFCBDSGGCDAVHCFsCDVFAHDSVBDGVVCFHASGdfbgdvhjbgdfbgvgjycvasdsZASXDRTEQT0bvfctvydb/blob/main/nocilla.png?raw=true",
       "latest_version": "última_versión2",
-      "date": "fecha2",
+      "date": "1.19.4",
       "game_version": "versión_juego2",
       "description": "descripción_modpack2",
       "creator": "Zukke",
@@ -71,10 +71,10 @@
       "name": "caca",
       "image_url": "https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
       "latest_version": "última_versión2",
-      "date": "fecha2",
-      "game_version": "versión_juego2",
+      "date": "01/May/2023",
+      "game_version": "1.20.1",
       "description": "descripción_modpack2",
-      "creator": "Caca",
+      "creator": "Zukke",
       "versions": [
         {
           "version_name": "versión1_modpack2",
