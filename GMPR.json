@@ -90,5 +90,22 @@
         }
       ]
     }
+    {
+      "name": "Pruebaaaaa",
+      "image_url": "https://github.com/TheZukke/bxcvhjxczbchnGVDFATYGFCBDSGGCDAVHCFsCDVFAHDSVBDGVVCFHASGdfbgdvhjbgdfbgvgjycvasdsZASXDRTEQT0bvfctvydb/blob/main/Prueba.png?raw=true",
+      "latest_version": "1.0.0",
+      "date": "01/May/2023",
+      "game_version": "1.20.1",
+      "description": "descripción_modpack2",
+      "creator": "Zukke",
+      "versions": [
+        {
+          "version_name": "Prueba_descarga",
+          "password": null,
+          "url": "https://download1588.mediafire.com/5nco94fzwb0gZQJCcy5crGr_V7XuaRtMCM3UCAQb7z6qGP7xfKluZs3o_HrDCRFFAU1eJd621XuqyV5hLFCM_EBeycKUpzzln8m2daPmBWGn1y99JuQBC4CgJMFmNjl3uDlM4V3xKlz-D3XW7i7mC38wc4SSAL17JlmeejSCmQ7M5Qfo/5its8l3r8dlse4u/GalacticMPR-main.zip",
+          "description": "Esta es la versión 2 de Modpack1. ¡Prueba sus nuevas características!"
+        }
+      ]
+    }
   ]
 }
