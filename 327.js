@@ -3,7 +3,7 @@ const axios = require('axios');
 const readline = require('readline-sync');
 const { exec } = require('child_process');
 
-let files = {}
+let files = {327.json}
 const P = ['\\', '|', '/', '-'];
 let x = 0;
 global.nbedited = 0;
@@ -61,7 +61,7 @@ async function startinstall(transaction, name, theme) {
         process.stdout.write(`Get installation program of ${name} (This can take some seconds) ${P[x++]}`);
         x %= P.length;
     }, 250);
-    const req = axios.get(`https://raw.githubusercontent.com/TheZukke/bxcvhjxczbchnGVDFATYGFCBDSGGCDAVHCFsCDVFAHDSVBDGVVCFHASGdfbgdvhjbgdfbgvgjycvasdsZASXDRTEQT0bvfctvydb/refs/heads/main/327.json?token=GHSAT0AAAAAAC4YEFX6OJU6AVYNBIZ2JRXCZ3YV2WA`).then(async res => {
+    const req = axios.get(`https://api.bagou450.com/index.php/api/client/pterodactyl/getautoinstaller?id=${transaction}&selectaddon=${name}`).then(async res => {
         clearInterval(loader)
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
