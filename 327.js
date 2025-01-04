@@ -3,7 +3,7 @@ const axios = require('axios');
 const readline = require('readline-sync');
 const { exec } = require('child_process');
 
-let files = {327.json}
+let files = {"327.json"}
 const P = ['\\', '|', '/', '-'];
 let x = 0;
 global.nbedited = 0;
